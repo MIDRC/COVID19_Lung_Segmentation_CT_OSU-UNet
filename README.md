@@ -11,15 +11,12 @@ Lung Lobe Segmentation model based on a 2D U-Net. The model is trained with CT s
 **Requirements**: Python, Tensorflow Keras API, SimpleITK, OpenCV, Numpy, Matplotlib
 
 **Repo Content Description**: a description of the types of files, code, and/or data included in the repo, as well as instructions on how to operate or utilize the files as appropriate.
+
 References
 ---
 1)	U-Net: Convolutional Networks for Biomedical Image Segmentation https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 2)	U-Net Architecture implementation https://github.com/zhixuhao/unet
 3)	Training Data: https://www.kaggle.com/kmader/finding-lungs-in-ct-data 
 4)  Laboratory for Augmented Intelligence in Imaging, The Ohio State University Wexner Medical Center,Department of Radiology
-
-
-
-
 
 
