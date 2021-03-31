@@ -1,5 +1,6 @@
 # OSU Lung Segmentation with 2D UNet in CT
-**MIDRC CRP-2  Machine intelligence algorithms from multi-modal, multi-institutional COVID-19 data** (https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp2)
+**MIDRC CRP-2:  Machine intelligence algorithms from multi-modal, multi-institutional COVID-19 data** 
+(https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp2)
 
 **Development Team**: names (and emails if desired) of individuals associated with the project
 
