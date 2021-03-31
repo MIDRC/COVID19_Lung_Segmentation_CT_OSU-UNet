@@ -1,5 +1,5 @@
 # OSU Lung Segmentation with 2D UNet in CT
-**MIDRC TDP or CRP number and title** (with link to corresponding midrc.org page)
+**MIDRC CRP-2  Machine intelligence algorithms from multi-modal, multi-institutional COVID-19 data** (https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp2)
 
 **Development Team**: names (and emails if desired) of individuals associated with the project
 
@@ -18,5 +18,3 @@ References
 2)	U-Net Architecture implementation https://github.com/zhixuhao/unet
 3)	Training Data: https://www.kaggle.com/kmader/finding-lungs-in-ct-data 
 4)  Laboratory for Augmented Intelligence in Imaging, The Ohio State University Wexner Medical Center,Department of Radiology
-
-
