@@ -6,7 +6,7 @@
 
 **Modality**: CT
 
-Lung Lobe Segmentation model based on a 2D U-Net. The model is trained with CT sequences and the corresponding lung masks. The data is in [3]. The training images are enhanced and re-sized to 256 x 256 before feeding to the network. The model is trained in The Ohio State University Wexner Medical Center, Department of Radiology, using Python, Tensorflow Keras API, and trained on an NVIDIA QuadroGV100 system with CUDA/CuDNNv9 dependecies. 
+Lung Lobe Segmentation model based on a 2D U-Net[1,2]. The model is trained with CT sequences and the corresponding lung masks [3]. The training images are enhanced and re-sized to 256 x 256 before feeding to the network. The model is trained in The Ohio State University Wexner Medical Center, Department of Radiology [4], using Python, Tensorflow Keras API, and trained on an NVIDIA QuadroGV100 system with CUDA/CuDNNv9 dependecies. 
 ![example output](out.png)
 
 **Requirements**: Python, Tensorflow Keras API, SimpleITK, OpenCV, Numpy, Matplotlib
