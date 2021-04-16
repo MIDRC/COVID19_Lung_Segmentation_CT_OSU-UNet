@@ -2,7 +2,7 @@
 **MIDRC CRP-2:  Machine intelligence algorithms from multi-modal, multi-institutional COVID-19 data** 
 (https://www.midrc.org/midrc-collaborating-research-projects/project-one-crp2)
 
-**Development Team**: names (and emails if desired) of individuals associated with the project
+**Development Team**: S.Candemir (candemirsema@gmail.com)
 
 **Modality**: CT
 
@@ -10,8 +10,6 @@ Lung Lobe Segmentation model based on a 2D U-Net[1,2]. The model is trained with
 ![example output](out.png)
 
 **Requirements**: Python, Tensorflow Keras API, SimpleITK, OpenCV, Numpy, Matplotlib
-
-**Repo Content Description**: a description of the types of files, code, and/or data included in the repo, as well as instructions on how to operate or utilize the files as appropriate.
 
 **Predict**
 ```
