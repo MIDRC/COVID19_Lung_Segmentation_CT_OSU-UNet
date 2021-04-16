@@ -13,8 +13,7 @@ Lung Lobe Segmentation model based on a 2D U-Net[1,2]. The model is trained with
 
 **Repo Content Description**: a description of the types of files, code, and/or data included in the repo, as well as instructions on how to operate or utilize the files as appropriate.
 
-**Usage
-
+**Usage**
 ```
 predict.py --help
 --ckpt PATH TO CHECKPOINT (e.g., output/JAICNet-epoch=38-val_loss=0.07-val_acc=0.00.ckpt)
