@@ -13,7 +13,7 @@ Lung Lobe Segmentation model based on a 2D U-Net[1,2]. The model is trained with
 
 **Predict**
 ```
-locate CT sequences in data folder
+locate CT sequences in Data folder
 >>python lung_segment.py
 ```
 
