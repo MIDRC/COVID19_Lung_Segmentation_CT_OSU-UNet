@@ -22,4 +22,4 @@ References
 1)	U-Net: Convolutional Networks for Biomedical Image Segmentation https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 2)	U-Net Architecture implementation https://github.com/zhixuhao/unet
 3)	Training Data: https://www.kaggle.com/kmader/finding-lungs-in-ct-data 
-4)  Laboratory for Augmented Intelligence in Imaging, The Ohio State University Wexner Medical Center,Department of Radiology
+4)  Laboratory for Augmented Intelligence in Imaging, The Ohio State University Wexner Medical Center,Department of Radiology (http://aii.osu.edu/)
